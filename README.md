@@ -1,5 +1,5 @@
 # Edudata_CR
-Shared repository for materials to work with education data from the Czech republic
+Shared repository for materials useful in work with education data from the Czech republic
 
 **redizo_zuj_obec.csv** links red_izo with zuj and obec (matching schools to regions)
 
